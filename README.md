@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Lawrence 👋
 
-<!--
-**ibrahimlawrence283-beep/ibrahimlawrence283-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** bridging quantitative rigor, enterprise governance, and production LLM deployment. I build specialized, domain-adapted model systems and real-time middleware safeguards designed for security, finance, and enterprise compliance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Featured Portfolio Builds
+
+#### 1. [AuraGuard | AI Governance & Safety Middleware Engine](https://github.com/ibrahimlawrence283-beep/AuraGuard)
+> **Stack:** Python, Streamlit, Pandas, Plotly, IBM watsonx.ai integration
+
+* **Overview:** Real-time telemetry, PII redaction tracking, and IP protection middleware operating as an inline security layer for enterprise creative workflows.
+* **Core Architecture:** 
+  * Inbound gateway interception for prompt payloads.
+  * Multi-track regex pattern matching to mask high-risk signatures (PII, credentials, network endpoints).
+  * Dynamic synthetic masking with a persistent forensic audit ledger (`auraguard_audit.csv`).
+* **Value:** Prevents sensitive data leakage before prompts reach downstream foundation models.
+
+---
+
+#### 2. [Meridian Data Assurance — Risk Triage Engine](https://github.com/ibrahimlawrence283-beep/portfolio-risk-llm)
+> **Stack:** Llama 3.2 3B Instruct, Unsloth QLoRA, PEFT, Streamlit, Transformers
+
+* **Overview:** Domain-adapted lightweight LLM specialized for real-time financial, cyber, and operational risk triage.
+* **Key Benchmarks & Metrics:**
+  * **Fine-Tuning:** 4-bit Unsloth base with $r=16, \alpha=16$ across all 28 layers.
+  * **Performance:** Reached final training loss of **0.6565** and domain perplexity of **1.928**.
+* **Dual Inference Modes:**
+  * **Fast Triage:** Low-latency micro-classification into structured severity categories (`CRITICAL`, `HIGH`, `MEDIUM`, `LOW`).
+  * **Guided Narrative:** Prefix-forced generation for detailed audit and financial impact summaries.
+
+---
+
+### ⚙️ Technical Skills & Toolkit
+
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Model Fine-Tuning & Quantization** | Unsloth, PEFT, QLoRA, Hugging Face Transformers, BitsAndBytes |
+| **AI Governance & Middleware** | Real-time PII Interception, Synthetic Masking, Regex Filtering, Audit Logging |
+| **Development & Deployment** | Python, Streamlit, Pandas, Plotly, Git, REST APIs |
+| **Enterprise Cloud AI Platforms** | IBM watsonx.ai, Google Cloud Vertex AI & Gemini APIs |
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [@ibrahimlawrence283-beep](https://github.com/ibrahimlawrence283-beep)
+* **LinkedIn:** [Lawrence Ibrahim](https://www.linkedin.com/in/lawrence-ibrahim-b54578351)

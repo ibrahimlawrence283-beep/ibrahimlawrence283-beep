@@ -90,7 +90,7 @@ Self-hostable, low-resource SSA platform giving regional space agencies independ
 - **Edge-Optimized Deployment:** Runs fully offline on commodity hardware (Raspberry Pi 4 or standard server) — no GPU, no constant connectivity required, full data sovereignty for air-gapped environments.
 - **Value:** Gives emerging space programs (SANSA, NASRDA, KSA, ESSA, and similar) real-time orbital awareness and conjunction alerts without relying on Space Fence, ESA's SSA Programme, or cloud-dependent infrastructure.
 
-[🔗 Repo](#) · [▶️ Demo](#)
+[🔗 Repo](#) · [▶️https://youtu.be/ULDQ5SdTsOk?si=O7mzUvjy1HJUXtjo](#)
 
 ---
 
